@@ -8,3 +8,11 @@ The first time you use this codebase, please install dependencies with `npm inst
 
 To start the server, run `node server.js` from this folder.
 
+# API Endpoints
+
+**GET Requests**
+* `/questions`
+
+**POST Requests**
+* `/new/question`
+* `/new/session`
